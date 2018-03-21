@@ -1,2 +1,3 @@
 # hello_world
-trial of github
+trial github
+Hi, I am just checking out hiow github works.
